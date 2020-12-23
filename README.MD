@@ -97,3 +97,5 @@ date.setDate(23);
 console.log(date.toLocaleString())
 // result: 23/12/2020 09:48:43
 ```
+
+[Created by Hugo Hoffmann](https://www.linkedin.com/in/hugohoffmann035/)
