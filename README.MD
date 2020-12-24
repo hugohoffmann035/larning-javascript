@@ -15,30 +15,6 @@ console.log(date)
 ### **Date toLocaleString**
 #### The toLocaleString() method returns a string with a language sensitive representation of this date.
 [Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleString)
-### **Locale**
-- Example: pt-BR
-- 
-### **Options**
-
-#### **weekday**
-- **long** - terça-feira
-- **short** - ter
-- **narrow** - T
-- 
-#### **day**
-- **numeric** - 22
-- **2-digit** - 01
-
-#### **month**
-- **numeric** - 12
-- **2-digit** - 12
-- **long** - Dezembro
-- **short** - Dez
-- **narrow** - D
-
-#### **year**
-- **numeric** - 2020
-- **2-digit** - 20
 
 ### Example
 ```
